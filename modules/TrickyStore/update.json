@@ -11,12 +11,12 @@
       "size": 31756
     },
     {
-      "timestamp": 1726922000.0,
-      "version": "v3.0.3",
-      "versionCode": 30003,
-      "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
-      "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
-      "size": 511964
+      "timestamp": 1742639470.0,
+      "version": "v2.0.0",
+      "versionCode": 200,
+      "zipUrl": "https://example.com/modules/bindhosts/v2.0.0_200.zip",
+      "changelog": "https://example.com/modules/bindhosts/v2.0.0_200.md",
+      "size": 77407
     }
   ]
 }
