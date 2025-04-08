@@ -1,15 +1,15 @@
 {
-  "id": "examplcom",
+  "id": "gargitd59",
   "name": "D59 REPO",
   "website": null,
   "support": null,
   "donate": null,
   "submission": null,
-  "cover": "https://example.com/assets/cover.webp",
-  "description": "repo pribadi",
+  "cover": "https://garciansyah.github.io/repod59/assets/cover.webp",
+  "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1744084542.456764
+    "timestamp": 1744087451.373443
   },
   "modules": [
     {
@@ -54,7 +54,7 @@
         "added": 1733301165,
         "source": "https://github.com/backslashxx/bindhosts",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/bindhosts/track.yaml"
+        "build_metadata": "https://garciansyah.github.io/repod59/modules/bindhosts/track.yaml"
       },
       "versions": [
         {
@@ -76,52 +76,45 @@
       ]
     },
     {
-      "id": "mmrl_wpd",
-      "name": "WiFi Password Viewer for MMRL",
-      "version": "4.7.7",
-      "versionCode": 459,
-      "author": "Der_Googler, veez21 @ xda-developers",
-      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
-      "added": 1445340430.7142262,
-      "categories": [
-        "WebUI",
-        "Tweaks and Hacks",
-        "Miscellaneous"
-      ],
-      "support": "https://github.com/Googlers-Repo/wpd/issues",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "id": "livebootmodule",
+      "name": "LiveBoot",
+      "version": "v3.0.3",
+      "versionCode": 30003,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
+      "added": 1733301165,
       "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
-      ],
-      "timestamp": 1735764644.0,
-      "size": 462291,
+      "timestamp": 1726922000.0,
+      "size": 511964,
       "permissions": [
-        "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
-        "action": true,
         "webroot": true
       },
       "track": {
-        "type": "GIT",
-        "added": 1445340430.7142262,
-        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "type": "ONLINE_JSON",
+        "added": 1733301165,
+        "source": "https://github.com/symbuzzer/livebootmodule",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/mmrl_wpd/track.yaml"
+        "build_metadata": "https://garciansyah.github.io/repod59/modules/livebootmodule/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1735764644.0,
-          "version": "4.7.7",
-          "versionCode": 459,
-          "zipUrl": "https://example.com/modules/mmrl_wpd/4.7.7_459.zip",
-          "changelog": "",
-          "size": 462291
+          "timestamp": 1735904596.0,
+          "version": "v1.8.5",
+          "versionCode": 185,
+          "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
+          "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
+          "size": 31756
+        },
+        {
+          "timestamp": 1726922000.0,
+          "version": "v3.0.3",
+          "versionCode": 30003,
+          "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
+          "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
+          "size": 511964
         }
       ]
     }
