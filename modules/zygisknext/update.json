@@ -2,13 +2,21 @@
   "id": "zygisknext",
   "timestamp": 1735904596.0,
   "versions": [
-  {
+    {
       "timestamp": 1735904596.0,
       "version": "v1.8.5",
       "versionCode": 185,
       "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
       "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
       "size": 31756
+    },
+    {
+      "timestamp": 1743093744.0,
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "versionCode": 512,
+      "zipUrl": "https://garciansyah.github.io/repod59/modules/zygisknext/1.2.8_512-4b5d6ad-release.zip",
+      "changelog": "",
+      "size": 3519779
     }
   ]
 }

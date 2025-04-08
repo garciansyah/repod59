@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1744087451.373443
+    "timestamp": 1744089103.789723
   },
   "modules": [
     {
@@ -115,6 +115,56 @@
           "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
           "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
           "size": 511964
+        }
+      ]
+    },
+    {
+      "id": "zygisknext",
+      "name": "Zygisk Next",
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "versionCode": 512,
+      "author": "5ec1cff, Nullptr",
+      "description": "Standalone implementation of Zygisk.",
+      "added": 1733301165,
+      "license": "GPL-3.0",
+      "verified": true,
+      "timestamp": 1743093744.0,
+      "size": 3519779,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": 1733301165,
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "antifeatures": null,
+        "build_metadata": "https://garciansyah.github.io/repod59/modules/zygisknext/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1735904596.0,
+          "version": "v1.8.5",
+          "versionCode": 185,
+          "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
+          "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
+          "size": 31756
+        },
+        {
+          "timestamp": 1743093744.0,
+          "version": "1.2.8 (512-4b5d6ad-release)",
+          "versionCode": 512,
+          "zipUrl": "https://garciansyah.github.io/repod59/modules/zygisknext/1.2.8_512-4b5d6ad-release.zip",
+          "changelog": "",
+          "size": 3519779
         }
       ]
     }
