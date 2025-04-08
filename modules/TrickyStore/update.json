@@ -3,7 +3,6 @@
   "timestamp": 1735904596.0,
   "versions": [
     {
-       {
       "timestamp": 1735904596.0,
       "version": "v1.8.5",
       "versionCode": 185,
@@ -18,7 +17,6 @@
       "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
       "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
       "size": 511964
-    }
     }
   ]
 }
