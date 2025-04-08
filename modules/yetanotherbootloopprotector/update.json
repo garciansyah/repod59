@@ -3,7 +3,12 @@
   "timestamp": 1735904596.0,
   "versions": [
     {
-      
+      "timestamp": null,
+      "version": null,
+      "versionCode": null,
+      "zipUrl": null,
+      "changelog": null,
+      "size": null
     }
   ]
 }
