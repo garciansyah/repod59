@@ -167,6 +167,49 @@
           "size": 3519779
         }
       ]
+    },
+    {
+      "id": "trickystore",
+      "name": "trickystore",
+      "version": "v3.0.3",
+      "versionCode": 30003,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
+      "added": 1733301165,
+      "verified": true,
+      "timestamp": 1726922000.0,
+      "size": 511964,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1733301165,
+        "source": "https://github.com/symbuzzer/trickystore",
+        "antifeatures": null,
+        "build_metadata": "https://garciansyah.github.io/repod59/modules/trickystore/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1735904596.0,
+          "version": "v1.8.5",
+          "versionCode": 185,
+          "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
+          "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
+          "size": 31756
+        },
+        {
+          "timestamp": 1726922000.0,
+          "version": "v3.0.3",
+          "versionCode": 30003,
+          "zipUrl": "https://garciansyah.github.io/repod59/modules/trickystore/v3.0.3_30003.zip",
+          "changelog": "https://garciansyah.github.io/repod59/modules/trickystore/v3.0.3_30003.md",
+          "size": 511964
+        }
+      ]
     }
   ]
 }
