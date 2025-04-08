@@ -2,8 +2,4 @@ id: YetAnotherBootloopProtector
 enable: true
 verified: true
 update_to: https://github.com/rhythmcache/YetAnotherBootloopProtector/releases/download/4.4/YetAnotherBootloopProtector-21-4.4.zip
-license: GPL-3.0
 source: https://github.com/rhythmcache/YetAnotherBootloopProtector
-added: 1733301165
-last_update: 1743093744.0
-versions: 2
