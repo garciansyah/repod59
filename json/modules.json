@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1744266809.754663
+    "timestamp": 1744289346.531848
   },
   "modules": [
     {
@@ -78,14 +78,14 @@
     {
       "id": "livebootmodule",
       "name": "LiveBoot",
-      "version": "v3.0.3",
-      "versionCode": 30003,
+      "version": "v4.0.0",
+      "versionCode": 40000,
       "author": "Ali Beyaz (avalibeyaz.com/github)",
       "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
       "added": 1733301165,
       "verified": true,
-      "timestamp": 1726922000.0,
-      "size": 511964,
+      "timestamp": 1744281259.0,
+      "size": 501367,
       "permissions": [
         "kernelsu.permission.WEBUI"
       ],
@@ -101,20 +101,20 @@
       },
       "versions": [
         {
-          "timestamp": 1735904596.0,
-          "version": "v1.8.5",
-          "versionCode": 185,
-          "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
-          "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
-          "size": 31756
-        },
-        {
           "timestamp": 1726922000.0,
           "version": "v3.0.3",
           "versionCode": 30003,
           "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
           "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
           "size": 511964
+        },
+        {
+          "timestamp": 1744281259.0,
+          "version": "v4.0.0",
+          "versionCode": 40000,
+          "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v4.0.0_40000.zip",
+          "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v4.0.0_40000.md",
+          "size": 501367
         }
       ]
     },

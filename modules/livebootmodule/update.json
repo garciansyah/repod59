@@ -3,20 +3,20 @@
   "timestamp": 1735904596.0,
   "versions": [
     {
-      "timestamp": 1735904596.0,
-      "version": "v1.8.5",
-      "versionCode": 185,
-      "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
-      "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
-      "size": 31756
-    },
-    {
       "timestamp": 1726922000.0,
       "version": "v3.0.3",
       "versionCode": 30003,
       "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.zip",
       "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v3.0.3_30003.md",
       "size": 511964
+    },
+    {
+      "timestamp": 1744281259.0,
+      "version": "v4.0.0",
+      "versionCode": 40000,
+      "zipUrl": "https://garciansyah.github.io/repod59/modules/livebootmodule/v4.0.0_40000.zip",
+      "changelog": "https://garciansyah.github.io/repod59/modules/livebootmodule/v4.0.0_40000.md",
+      "size": 501367
     }
   ]
 }
